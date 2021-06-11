@@ -316,3 +316,11 @@ img {
 }
 
 /* BUTTONS */
+.button {
+    display: inline-block;
+    background-color: var(--first-color);
+    color: hsl(0, 0%, 100%);
+    padding: 1rem;
+    border-radius: .5rem;
+    font-weight: var(--font-medium);
+}

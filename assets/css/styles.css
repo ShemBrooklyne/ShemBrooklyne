@@ -1277,6 +1277,10 @@ img {
   }
 }
 
+.movies__below {
+  motion: auto;
+}
+
 /* MUST WATCH MOVIES & SERIES
 /* ******************* */
 /* ======== MOVIES ======== */

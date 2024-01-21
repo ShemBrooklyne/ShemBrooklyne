@@ -9,13 +9,13 @@
   /* available swatch, call it shem swatch */
   /* purple - 250 / green - 142 / blue - 230 / pink - 340 / fav - 200 */
   /* Preferred color swatch */
-  --hue-color: 349;
+  --hue-color: 263;
 
   /* hsl(349,56%,54%) */
 
   /* HSL color mode */
   /* --first-color: hsl(var(--hue-color), 69%, 61%); */
-  --first-color: hsl(var(--hue-color), 56%, 54%);
+  --first-color: hsl(var(--hue-color), 21%,25%);
   --first-color-second: hsl(var(--hue-color), 69%, 61%);
   --first-color-alt: hsl(var(--hue-color), 57%, 53%);
   --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
@@ -308,7 +308,8 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  /* width: 170px; */
+  width: 200px;
 }
 
 .home__data {
